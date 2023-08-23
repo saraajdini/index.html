@@ -1,0 +1,13 @@
+body{
+margin: 0;
+padding: 0;
+font-family: Arial, sans-serif;
+background-color: floralwhite;
+}
+
+.profile{
+background-color: whitesmoke;
+padding: 20px;
+border-radius: 8px;
+
+}
